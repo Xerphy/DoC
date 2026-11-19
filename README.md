@@ -1,9 +1,22 @@
 # DoC
-Aquí están los documentos fuente de mis tareas. 
 
-Bienvenid@, aqui tienes el indice.
+Aquí están los documentos fuente de mis tareas.
+
+## Índice
+
 - Semestre 3
-- - Metodos numericos
-  - - Interpolacion lineal
+  - Métodos numéricos
+    - [Interpolación lineal](interpolacionLineal.ipynb)
 
-Es probable que algunos archivos se vean muy pulidos o hasta perfectos. La razon es mas que obvia, Uso IA para corregir gran parte de los errores de tipeo. Puedes ver que efectivamente lo es gracias a los cuadernos, si saltas entre versiones veras que paso de tener varios intentos a otros que salen a la primera. Tienes la ventaja de poder ver los cambios y el trabajo original antes de ser pulido para la entrega.
+## Sobre el uso de IA
+
+Uso IA como apoyo para revisar mis cuadernos: corregir errores de ortografía y de
+tipeo, detectar errores conceptuales y mejorar la redacción. En algunos casos
+también me ayuda a proponer contenido adicional (por ejemplo, observaciones o
+gráficas), que aparece tanto en los cuadernos como en los PDF finales Auque ten en cuenta que estos van a variar, no metere los nombre ni mios ni de mi equipo aqui. Reviso y
+decido qué conservo o añado.
+
+Las funciones que uso con frecuencia están en `personal.py`.
+
+Por eso algunos archivos se ven más pulidos que otros. Si revisas el historial de
+commits, puedes ver mi versión original y los cambios que se hicieron después.
