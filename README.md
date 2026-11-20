@@ -2,11 +2,14 @@
 
 Aquí están los documentos fuente de mis tareas.
 
+Ven aqui siempre para obtener la ultima version
+
 ## Índice
 
 - Semestre 3
   - Métodos numéricos
     - [Interpolación lineal](interpolacionLineal.ipynb)
+    - [Interpolación Cuadratica](interpolacionCuadratica.ipynb)
 
 ## Sobre el uso de IA
 
